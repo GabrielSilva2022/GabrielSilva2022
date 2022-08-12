@@ -1,5 +1,5 @@
-# HI:wave:
-- :stars:Me chamo Gabriel Silva Gonçalves:crescent_moon:.
+# OLA!:wave:
+- :sun_with_face: Me chamo Gabriel Silva Gonçalves:crescent_moon:.
 
 - :calling: Meu E-mail é esse: gabriel.silva.goncalves@escola.pr.gov.br
 
@@ -7,7 +7,7 @@
 
 - :orange_book: Sou estudante do ensino medio.
 
-- :goberserk: Estou cursando informatica na Fundação EduCere.
+- :feelsgood: Estou cursando informatica na Fundação EduCere campo Mouraõ.
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
