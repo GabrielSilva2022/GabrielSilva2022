@@ -6,8 +6,10 @@
 - :orange_book: Sou estudante do ensino medio.
 - :feelsgood: Estou cursando informatica na Fundação EduCere campo Mouraõ.
 
+![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ![Isso é uma imagem](https://i.imgflip.com/32p9tl.jpg)
 
-![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![GabrielSilva2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva2022&show_icons=true&theme=radical)
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
