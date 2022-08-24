@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=800&lines=Olá!,+Me+chamo+Gabriel+Silva+Gonçalves;Tenho+16+anos;Móro+em+Campo+Mouraõ+Brasil,PR)](https://git.io/typing-svg)
 - :calling: Meu E-mail é esse: gabriel.silva.goncalves@escola.pr.gov.br
 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ![GabrielSilva2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva2022&show_icons=true&theme=onedark)
 
 ## ***Tecnologias que uso no meu dia a dia***
